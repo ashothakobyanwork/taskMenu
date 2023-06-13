@@ -1,0 +1,10 @@
+{
+  "name": "testmobile",
+  "displayName": "testmobile",
+  "ios": {
+    "infoPlist": {
+      "NSCameraUsageDescription": "Camera permission is needed for upload user avatar.",
+      "NSPhotoLibraryUsageDescription": "Camera permission is needed for upload user avatar."
+    }
+  }
+}
